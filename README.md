@@ -1,5 +1,5 @@
 # Austin_profile
-Introduction
+Personal Introduction
 
 - 👋 Hi, I’m AustinNg
 - 👀 I’m interested in deep learning
